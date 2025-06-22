@@ -1,0 +1,5 @@
+echo venv/ > .gitignore
+echo .env >> .gitignore
+echo weather.db >> .gitignore
+echo __pycache__/ >> .gitignore
+echo data/ >> .gitignore
